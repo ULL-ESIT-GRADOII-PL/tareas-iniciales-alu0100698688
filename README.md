@@ -1,14 +1,23 @@
-## Tarea Inicial
+# Tareas iniciales
 
-Configuración de las herramientas y tecnologías a utilizar en la asignatura Sistemas y Tecnologías Webs.
+## Pasos a seguir para la realización de la práctica
 
-* NodeJS
-* Express
-* Atom
-* GitHub
-* Cloud9
-* Markdown
+1. Configuración de las siguientes herramientas y tecnologías que se usarán en las próximas prácticas:
+  * Node JS
+  * Express
+  * GitHub App
+  * Pandoc
+  * GitHub
+  * Cloud 9
+  * Atom
+  * Markdown
 
-[Página personal de prácticas](http://alu0100536652.github.io/)
+2. Elaboración de una página web personal donde se enlazarán las prácticas de la asignatura.
 
-[Página de la práctica inicial](http://alu0100536652.github.io/Tutorial-STW/)
+3. Elaboración de un tutorial sobre la instalación de los elementos mencionados anteriormente así como una descripción y ejemplificación de los mismos.
+
+## Web de las prácticas
+[Web de las prácticas](http://alu0100698688.github.io/web/)
+
+## Web de la práctica 0: "Tareas iniciales"
+[Web de las prácticas](http://alu0100698688.github.io/web/practicas/Practica0/practica0.html)
